@@ -1,1 +1,1 @@
-# blazor
+# eventease-app
